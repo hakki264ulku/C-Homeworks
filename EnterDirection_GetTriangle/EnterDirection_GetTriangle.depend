@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1571814872 source:c:\users\hakki\desktop\c\enterdirection_gettriangle\main.c
+	<stdio.h>
+	<stdlib.h>
+
