@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1578156842 source:c:\users\hakki\desktop\c\hw-7\main.c
+	<stdio.h>
+	<stdlib.h>
+
